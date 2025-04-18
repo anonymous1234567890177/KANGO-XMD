@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
-      "value": "",
+      "value": "KANGO~lkplDLxK#zmLw4WbhAL7LBURPYADPrIbNQd099pTZPAQeGZ4Ot80",
       "required": false
     },
     "BOT_NAME": {
@@ -22,12 +22,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "263789544743",
       "required": true
     },
     "OWNER_NAME": {
       "description": "owner name",
-      "value": "",
+      "value": "Zuka",
       "required": true
     },
     "STICKER_PACK_NAME": {
